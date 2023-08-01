@@ -26,14 +26,14 @@
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
 
  ### 🔗Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karemahamdy51@gmail.com)](mailto:karemahamdy5@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karemahamdy51@gmail.com)](mailto:karemahamdy51@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 
 <!-- ### 🔗Contact Me
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karemahamdy5@gmail.com)](mailto:karemahamdy5@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/amr-elsayed74](https://www.linkedin.com/in/karema-hamdy-26a737218/)?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://[www.linkedin.com/in/amr-elsayed74](https://www.linkedin.com/in/karema-hamdy-26a737218/)?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karemahamdy5@gmail.com)](mailto:karemahamdy51@gmail.com)
+https://www.linkedin.com/in/karema-hamdy-26a737218/)](https://www.linkedin.com/in/karema-hamdy-26a737218/)?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)](https://[www.linkedin.com/in/amr-elsayed74](https://www.linkedin.com/in/karema-hamdy-26a737218/)?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 
 
 <!-- ### 🔗 Links
