@@ -4,7 +4,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ali Fikri</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm karema Hamdy</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fron-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22"></a>
 </p> 
@@ -29,8 +29,8 @@
 
 ## 📊 My Github Stats
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karemahamdy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karemahamdy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karema-Hamdy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karema-Hamdy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -49,9 +49,6 @@
 </p>
 
 ## ❤ Views and Followers
-
-
-
 
 
 <a href="https://github.com/karemahamdy?tab=followers"><img src="https://img.shields.io/github/followers/karemahamdy?label=Followers&style=social" alt="GitHub Badge"></a>
