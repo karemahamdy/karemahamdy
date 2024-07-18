@@ -7,10 +7,8 @@
  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-
-
-
 <p align="left">My name is Karema and I'm a Frontend developer</p>
+
 
 ###
 
