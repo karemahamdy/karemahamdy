@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-###
+
 
 <div align="left">
-  <img height="450" src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s1280x1920/95aba83fc114f2cac774427ffe15541c65c552e3.gifv" alt=""/>
+ <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
