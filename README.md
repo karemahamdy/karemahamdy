@@ -1,16 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
-<div align="left">
- 
- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 ###
-
 
 <p align="left">My name is Karema and I'm a Frontend developer</p>
 
-
-###
 ###
 
 <h2 align="left">About me</h2>
