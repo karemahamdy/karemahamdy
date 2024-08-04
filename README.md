@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning basics and mongo express.js<br>🎯 Goals: to be a software engineering<br></p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Basics and JS frameworks<br>🎯 Goals: to be a software engineering<br></p>
 
 ###
 
