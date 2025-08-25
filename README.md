@@ -16,32 +16,33 @@
     Frontend Development:
 </h3>
 
-<div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40" alt="ts logo"  />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" alt="tailwind logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" height="40" alt="redux logo"  />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  
+<div align="left" style="display: flex; gap: .5rem; flex-wrap: wrap">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" alt="tailwind logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" height="40" alt="redux logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="material ui logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
+
   <!-- Vue Ecosystem -->
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuex/vuex-original.svg" height="40" alt="vuex logo" />
-  <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="pinia logo" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuex/vuex-original.svg" height="40" alt="vuex logo" />
+  <img src="https://raw.githubusercontent.com/vuejs/pinia/main/packages/docs/public/logo.svg" height="40" alt="pinia logo" />
+
   <!-- React Ecosystem -->
-  <img src="https://raw.githubusercontent.com/tanstack/query/main/media/logo.png" height="40" alt="react query logo" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.png" height="40" alt="react query logo" />
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png" height="40" alt="zustand logo" />
   <img src="https://raw.githubusercontent.com/react-hook-form/react-hook-form/master/docs/logo.png" height="40" alt="react hook form logo" />
 </div>
+
 
 
 
